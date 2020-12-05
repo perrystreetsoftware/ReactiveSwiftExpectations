@@ -1,2 +1,3 @@
 # ReactiveSwiftExpectations
-Await extensions for ReactiveSwift to make unit tests easier
+
+A description of this package.
